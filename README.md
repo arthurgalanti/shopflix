@@ -47,11 +47,10 @@ The application's architecture will be divided into three main layers:
   - User registration and login.
   - Creation, delete and complete of shopping list items.
 
-## Database (SQL Server)
+## Database (Mongo DB)
 
-- Use SQL Server as a relational database.
+- Use Mongo DB as a non relational database.
 - Define data schemas and models for users and shopping list items.
-- If necessary, create a migration script to populate the database with initial data.
 
 # Final challenge: Dockerization
 
@@ -216,7 +215,6 @@ Authorization: Bearer <token>
 - [Alexandre Beato](https://github.com/alexandrebeato/)
 - [Arthur Dias](https://github.com/arthurferro)
 - [Arthur Galanti](https://github.com/arthurgalanti)
-- [Gustavo Trevisani](https://github.com/gustavojstrevisani)
 - [Ítalo Covas](https://github.com/ItaloCovas)
 - [Vinicius Victor](https://github.com/vinevictor)
 
